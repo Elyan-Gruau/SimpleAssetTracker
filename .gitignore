@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+API/.idea/compiler.xml
+API/.idea/encodings.xml
+API/.idea/jarRepositories.xml
+API/.idea/misc.xml
+API/.idea/uiDesigner.xml
+API/.idea/vcs.xml
